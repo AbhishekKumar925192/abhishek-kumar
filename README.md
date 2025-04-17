@@ -1,2 +1,0 @@
-# abhishek-kumar
-python project 
